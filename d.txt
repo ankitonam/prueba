@@ -1,6 +1,3 @@
 KATHECITA
 
 LINDA
-
-
-ajuste después de commit
